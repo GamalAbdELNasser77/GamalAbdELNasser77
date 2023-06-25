@@ -1,4 +1,6 @@
-### Hi there 👋
+### ITI  graduated with hands-on experience in web development using MEARN stack.  
+with fundamental knowledge of With all stages of the development cycle for dynamic web projects. Strong background in project
+management 👋
 
 <!--
 **GamalAbdELNasser77/GamalAbdELNasser77** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
