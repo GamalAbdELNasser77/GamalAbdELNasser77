@@ -1,6 +1,4 @@
-### ITI  
-graduated with hands-on experience in web development using MEARN stack.  
-with fundamental knowledge of With all stages of the development cycle for dynamic web projects. Strong background in project
+ITI  graduated with hands-on experience in web development using MEARN stack, with fundamental knowledge of With all stages of the development cycle for dynamic web projects. Strong background in project
 management 👋
 
 <!--
